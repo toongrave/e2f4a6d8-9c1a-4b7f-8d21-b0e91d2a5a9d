@@ -644,7 +644,7 @@
             margin: 1rem 0 3rem 0;
         }
 
-        .downloadbtnsitems .download-title {
+        .downloadbtnsitems h1 {
             background: linear-gradient(135deg, #ec4856, #be185d);
                 font-size: 2rem;
             -webkit-background-clip: text;
