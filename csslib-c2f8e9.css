@@ -646,6 +646,7 @@
 
         .downloadbtnsitems .download-title {
             background: linear-gradient(135deg, #ec4856, #be185d);
+                font-size: 2rem;
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
             text-align: center;
